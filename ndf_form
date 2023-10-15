@@ -1,1 +1,6 @@
-alert('All Is OK  !! ');
+function printMSG() { 
+alert('All Is Great now !! ');
+}
+
+
+
